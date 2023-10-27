@@ -1,0 +1,39 @@
+body {
+    margin: 10px;
+    font-family: Calibri, Helvetica, Arial, sans-serif;
+
+
+}
+
+h3 {
+    font-family: Calibri, sans-serif;
+    color: #1565c0;
+    text-align: center;
+
+
+}
+
+.oneDay {
+    color: #000000;
+    text-align: center;
+    border-style: solid;
+    border-color: #1565c0;
+    max-width: 600px;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.everyDay {
+    color: #000000;
+    text-align: center;
+    justify-content: center;
+    border-style: solid;
+    border-color: #1565c0;
+    margin-top: 10px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
